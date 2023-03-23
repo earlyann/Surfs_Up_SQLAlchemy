@@ -1,4 +1,4 @@
-# SQLAlchemy_Challenge
+# Surfs Up - SQLAlchemy
 
 ## Climate Analysis of Honolulu, Hawaii
 
